@@ -1,0 +1,123 @@
+.book_list_content{
+    margin: 15px;
+    padding: 10px 5px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.16);
+    width: 30%;
+    float: left;
+    margin-bottom: 20px !important;
+    position: relative; 
+}
+.book_header {
+    display: flex;
+}
+.book_header .edit_icon_image{
+    width: 20px;
+    height : 20px;
+}
+.default_book_image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.edit-icon-wrapper{
+    position: absolute;
+    top: 24px;
+    right: 10px;
+}
+.book_list_wrapper{
+}
+.book_list_header {
+    margin: 20px 0;
+    display : flex;
+    flex-direction: row;
+}
+.book_list_header  .add_button_wrapper{
+    width: 75%;
+    padding-left: 18px;
+}
+/* .book_list_header .add_button_wrapper {
+    width: 100%
+} */
+.search_input_box {
+    width: 250px;
+    height: 37px;
+    padding-left: 14px;
+    font-size: 20px;
+    border: 1px solid #cec5c5;
+    border-radius: 10px;
+}
+.add_icon_image {
+    width: 50px;
+    height: 50px;
+}
+.book_name {
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.book_description{
+    margin : 11px;
+}
+.book_name span.description_label, .book_content span.description_label{
+    font-weight: 600;
+    font-size: 18px;
+}
+.book_name div.description_value{
+    font-size: 18px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 180px;
+    display: inline-block;
+    vertical-align: middle;
+}
+ .book_content div.description_value{
+    font-size: 18px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.book_content div.view-count {
+    color : #606060;
+}
+.error-message{
+    float: right;
+    padding-right: 118px;
+    font-size: 21px;
+    color: red;
+    bottom: 25px;
+    position: relative;
+}
+.view-count div.view-book {
+    display: inline;
+    float: right;
+}
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+    .book_list_content{
+        margin: 0 10px;
+        width: 46%;
+    }
+    .book_name div.description_value{
+        max-width :150px;
+    }
+    .book_content div.description_value{
+        max-width :220px;
+    }
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    .book_list_content{
+        width: 90%;
+    }
+    .book_name div.description_value{
+        max-width :120px;
+    }
+    .book_content div.description_value {
+        max-width :190px;
+    }
+  }

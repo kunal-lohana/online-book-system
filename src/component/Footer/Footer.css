@@ -1,0 +1,12 @@
+.footer-content {
+    position: relative;
+    background-color: #ded4d4;
+    float: left;
+    display: block;
+    width: 100%;
+}
+.footer-copyright{
+    text-align: right;
+    padding: 10px;
+    margin: 0;
+}
