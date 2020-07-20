@@ -2,6 +2,7 @@
   "name": "book-library-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kunal-lohana.github.io/online-book-system",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@svgr/webpack": "4.1.0",
