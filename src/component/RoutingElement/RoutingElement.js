@@ -11,7 +11,7 @@ import ShowBook from '../showBook/ShowBook';
 
 
 const  RoutingElement = () => {
-    const baseName = "https://kunal-lohana.github.io/online-book-system";
+    const baseName = "/online-book-system";
     return(
         <BrowserRouter basename={baseName}>
                 <Header/>
