@@ -17,9 +17,9 @@ const  RoutingElement = () => {
                     <div className='container'>
                         <Switch>
                             <Route exact strict path="/" component={Home}></Route>
-                            <Route exact strict path="/add-book" component={AddBook}></Route>
-                            <Route exact strict path="/edit-book" component={EditBookDetails}></Route>
-                            <Route exact strict path="/show-book" component={ShowBook}></Route>
+                            <Route  path="/add-book" component={AddBook}></Route>
+                            <Route  path="/edit-book" component={EditBookDetails}></Route>
+                            <Route  path="/show-book" component={ShowBook}></Route>
                         </Switch>
                     </div>
                 <Footer/>
