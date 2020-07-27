@@ -16,10 +16,10 @@ const  RoutingElement = () => {
                 <Header/>
                     <div className='container'>
                         <Switch>
-                            <Route exact strict path="/" component={Home}></Route>
-                            <Route  path="/add-book" component={AddBook}></Route>
-                            <Route  path="/edit-book" component={EditBookDetails}></Route>
-                            <Route  path="/show-book" component={ShowBook}></Route>
+                            <Route exact strict path="https://kunal-lohana.github.io/online-book-system/" component={Home}></Route>
+                            <Route  path="https://kunal-lohana.github.io/online-book-system/add-book" component={AddBook}></Route>
+                            <Route  path="https://kunal-lohana.github.io/online-book-system/edit-book" component={EditBookDetails}></Route>
+                            <Route  path="https://kunal-lohana.github.io/online-book-system/show-book" component={ShowBook}></Route>
                         </Switch>
                     </div>
                 <Footer/>
