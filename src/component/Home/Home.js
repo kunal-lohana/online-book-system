@@ -17,7 +17,7 @@ const Home = (props) => {
     }, [book_list, props.book_list_state]);
 
     const searchBook = (e,search) => {
-        const inputValue = e.target.value;
+        const inputValue = e.target.value.toLowerCase();
         setSearch(inputValue);
         let search_book = book_list.filter( (book, index) => {
             return book.name.toLowerCase().indexOf(inputValue) !== -1
