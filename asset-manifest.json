@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/online-book-system/static/css/main.a2477f58.chunk.css",
-    "main.js": "/online-book-system/static/js/main.de885656.chunk.js",
-    "main.js.map": "/online-book-system/static/js/main.de885656.chunk.js.map",
+    "main.js": "/online-book-system/static/js/main.da75d0fc.chunk.js",
+    "main.js.map": "/online-book-system/static/js/main.da75d0fc.chunk.js.map",
     "runtime~main.js": "/online-book-system/static/js/runtime~main.e5446169.js",
     "runtime~main.js.map": "/online-book-system/static/js/runtime~main.e5446169.js.map",
     "static/js/2.3c5033ec.chunk.js": "/online-book-system/static/js/2.3c5033ec.chunk.js",
     "static/js/2.3c5033ec.chunk.js.map": "/online-book-system/static/js/2.3c5033ec.chunk.js.map",
     "index.html": "/online-book-system/index.html",
-    "precache-manifest.1d82b3f5e1295554c449f80efaac885f.js": "/online-book-system/precache-manifest.1d82b3f5e1295554c449f80efaac885f.js",
+    "precache-manifest.e6dddc1497f52b8a627305c9385923b9.js": "/online-book-system/precache-manifest.e6dddc1497f52b8a627305c9385923b9.js",
     "service-worker.js": "/online-book-system/service-worker.js",
     "static/css/main.a2477f58.chunk.css.map": "/online-book-system/static/css/main.a2477f58.chunk.css.map",
     "static/media/book-image.jpeg": "/online-book-system/static/media/book-image.40a72c24.jpeg"
