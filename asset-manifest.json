@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/online-book-system/static/css/main.a2477f58.chunk.css",
-    "main.js": "/online-book-system/static/js/main.ecfc5f9f.chunk.js",
-    "main.js.map": "/online-book-system/static/js/main.ecfc5f9f.chunk.js.map",
-    "runtime~main.js": "/online-book-system/static/js/runtime~main.514343c4.js",
-    "runtime~main.js.map": "/online-book-system/static/js/runtime~main.514343c4.js.map",
-    "static/js/2.3c5033ec.chunk.js": "/online-book-system/static/js/2.3c5033ec.chunk.js",
-    "static/js/2.3c5033ec.chunk.js.map": "/online-book-system/static/js/2.3c5033ec.chunk.js.map",
-    "static/js/3.582ac114.chunk.js": "/online-book-system/static/js/3.582ac114.chunk.js",
-    "static/js/3.582ac114.chunk.js.map": "/online-book-system/static/js/3.582ac114.chunk.js.map",
-    "index.html": "/online-book-system/index.html",
-    "precache-manifest.33f3075b04957eb9e48006e6ef5a4e49.js": "/online-book-system/precache-manifest.33f3075b04957eb9e48006e6ef5a4e49.js",
-    "service-worker.js": "/online-book-system/service-worker.js",
-    "static/css/main.a2477f58.chunk.css.map": "/online-book-system/static/css/main.a2477f58.chunk.css.map",
-    "static/media/book-image.jpeg": "/online-book-system/static/media/book-image.40a72c24.jpeg"
+    "main.css": "/static/css/main.a2477f58.chunk.css",
+    "main.js": "/static/js/main.b64bf077.chunk.js",
+    "main.js.map": "/static/js/main.b64bf077.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b0314b81.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b0314b81.js.map",
+    "static/js/2.3c5033ec.chunk.js": "/static/js/2.3c5033ec.chunk.js",
+    "static/js/2.3c5033ec.chunk.js.map": "/static/js/2.3c5033ec.chunk.js.map",
+    "static/js/3.582ac114.chunk.js": "/static/js/3.582ac114.chunk.js",
+    "static/js/3.582ac114.chunk.js.map": "/static/js/3.582ac114.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ebec9d0a98120a377939a76cf3dcee03.js": "/precache-manifest.ebec9d0a98120a377939a76cf3dcee03.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a2477f58.chunk.css.map": "/static/css/main.a2477f58.chunk.css.map",
+    "static/media/book-image.jpeg": "/static/media/book-image.40a72c24.jpeg"
   }
 }
