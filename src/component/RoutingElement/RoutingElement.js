@@ -8,7 +8,7 @@ import Footer from '../Footer/Footer';
 import AddBook from '../AddBook/AddBook';
 import EditBookDetails from '../EditBookDetail/EditBookDetail';
 import ShowBook from '../showBook/ShowBook';
-import { PUBLIC_URL } from '../../config/index';
+const {PUBLIC_URL } = import('../../config/index');
 
 
 const  RoutingElement = () => {
