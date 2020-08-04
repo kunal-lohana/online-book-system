@@ -8,10 +8,11 @@ import Footer from '../Footer/Footer';
 import AddBook from '../AddBook/AddBook';
 import EditBookDetails from '../EditBookDetail/EditBookDetail';
 import ShowBook from '../showBook/ShowBook';
+import { PUBLIC_URL } from '../../config/index';
 
 
 const  RoutingElement = () => {
-    const baseName = "/online-book-system";
+    const baseName = PUBLIC_URL;
     return(
         <BrowserRouter basename={baseName}>
                 <Header/>
